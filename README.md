@@ -17,6 +17,9 @@ git branch -M main
 # Step 5: Add remote repository (if not done already)
 git remote add origin https://github.com/DanthuluriSatya/weatherforecast-app.git
 
+# Step 6: npm init
+
+
 # Step 6: Push changes to GitHub
 git push -u origin main
 
