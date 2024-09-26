@@ -1,0 +1,24 @@
+{
+  "name": "weatherforecast-app",
+  "version": "1.0.0",
+  "description": "A Weather App which gives you weather and humidity based on specific location",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanthuluriSatya/weatherforecast-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanthuluriSatya/weatherforecast-app/issues"
+  },
+  "homepage": "https://github.com/DanthuluriSatya/weatherforecast-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
